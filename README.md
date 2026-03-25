@@ -1,10 +1,6 @@
 # Baseline
 
 <p align="center">
-  <img src="./baseline-gui.png" alt="Baseline GUI" width="100%" />
-</p>
-
-<p align="center">
   <strong>A modular Windows debloater, optimizer, and hardening utility for Windows 10, Windows 11, and Windows Server.</strong>
 </p>
 
