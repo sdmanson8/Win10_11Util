@@ -239,7 +239,6 @@
     "SaveZoneInformation -Disable",
     "WindowsScriptHost -Enable",
     "Set-WindowsFirewallLogging",
-    "DNSoverHTTPS -Disable",
     "LocalSecurityAuthority -Disable",
     "SharingMappedDrives -Enable",
     "Firewall -Enable",
